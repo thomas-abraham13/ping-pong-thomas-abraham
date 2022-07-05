@@ -2,7 +2,7 @@
 
 Step 1: cd into the **complete** directory
 
-Step 2: Run the following command in a terminal window: ./gradlew bootRun
+Step 2: Run the following command in a powershell terminal window: ./gradlew bootRun
 
 Similar Output should be visible:
 
@@ -19,4 +19,4 @@ messageSource
 mvcContentNegotiationManager
 mvcConversionService
 
-Step 3: Run the following curl service: $ curl localhost:8080/ping
+Step 3: Run the following curl service on a seperate command prompt terminal: $ curl localhost:8080/ping
